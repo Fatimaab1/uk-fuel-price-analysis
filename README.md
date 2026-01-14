@@ -24,7 +24,7 @@ Source: UK Government – Weekly road fuel prices (CSV), 2018–2026.
 **UK Fuel Prices Dashboard (2018–2026)**  
 🔗 [View interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/fatima.barkat/viz/UKFuelPricesDashboard20182026/UKFuelPricesDashboard20182026?publish=yes)
 
-<img src="images/fuel-price-dasboard-overview.png" alt="Dashboard Overview" width="300">
+<img src="images/fuel-price-dasboard-overview.png" alt="Dashboard Overview" width="500">
 
 
 ---
