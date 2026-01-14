@@ -24,7 +24,7 @@ Source: UK Government – Weekly road fuel prices (CSV), 2018–2026.
 **UK Fuel Prices Dashboard (2018–2026)**  
 🔗 [View interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/fatima.barkat/viz/UKFuelPricesDashboard20182026/UKFuelPricesDashboard20182026?publish=yes)
 
-<img src="images/dashboard_overview.png" alt="Dashboard Overview" width="300">
+<img src="images/fuel-price-dasboard-overview.png" alt="Dashboard Overview" width="300">
 
 
 ---
@@ -42,7 +42,7 @@ This project analyses UK weekly road fuel prices using official government data,
 
 ## 🔍 Key Insights
 
--- Fuel prices reached their highest levels in 2022.
+- Fuel prices reached their highest levels in 2022.
 - Diesel was consistently more expensive than petrol.
 - The difference between diesel and petrol prices increased during 2021–2022 and decreased after 2023.
 
