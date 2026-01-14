@@ -18,8 +18,6 @@ Source: UK Government – Weekly road fuel prices (CSV), 2018–2026.
 - What is the diesel–petrol price gap over time?
 - What do monthly averages look like?
 
-## Files
-- `sql/fuel_price_analysis.sql` — SQL queries (commented)
-- `outputs/monthly_averages.csv` — monthly average prices exported from SQL
+
 
 
