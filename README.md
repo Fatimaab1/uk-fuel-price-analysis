@@ -8,6 +8,8 @@ This project analyses UK weekly road fuel prices using official government data,
 Source: UK Government – Weekly road fuel prices (CSV), 2018–2026.  
 (Download link: https://www.gov.uk/government/statistics/weekly-road-fuel-prices)
 
+---
+
 **Tools used:**
 - SQL (MySQL) – data cleaning and aggregation
 - Tableau Public – data visualisation and dashboarding
@@ -26,7 +28,7 @@ Source: UK Government – Weekly road fuel prices (CSV), 2018–2026.
 **UK Fuel Prices Dashboard (2018–2026)**  
 🔗 [View interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/fatima.barkat/viz/UKFuelPricesDashboard20182026/UKFuelPricesDashboard20182026?publish=yes)
 
-<img src="images/fuel-price-dasboard-overview.png" alt="Dashboard Overview" width="500">
+<img src="images/fuel-price-dashboard-overview.png" alt="Dashboard Overview" width="500">
 
 ---
 
